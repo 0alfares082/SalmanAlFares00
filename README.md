@@ -1,9 +1,9 @@
-# 👋 مرحبًا، أنا سلمان  
+# Hi, I'm Salman  
 
-🎓 طالب **Computer Science & Cyber Security**  
-🤖 صانع محتوى عن **أدوات الذكاء الاصطناعي**  
-⚡ عندي خبرة بسيطة بـ **Vibe Coding**  
-📈 هدفي: بناء مشاريع رقمية + استكشاف قوة الـ AI  
+🎓 Student of **Computer Science & Cyber Security**  
+🤖 Content Creator about **AI Tools**  
+⚡ Experienced in **Vibe Coding**  
+📈 Goal: Build digital projects & explore the power of AI  
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🎶 مشغول بالكود + Vibing to :
+### 🎶 Busy coding & vibing to:
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)  
 
 ---
@@ -24,11 +24,15 @@
 
 ---
 
-### 🚀 أهدافي الحالية:
-- تطوير مهارتي في **الذكاء الاصطناعي و الـ AI Agents**  
-- نشر محتوى تعليمي قصير عن **أدوات الذكاء الاصطناعي** على TikTok و Instagram  
-- بناء مشاريع SaaS و MVP باستخدام **Vibe Coding + n8n + AI tools**  
+### 🚀 Current Goals:
+- Improve my expertise in **AI & AI Agents**  
+- Create short-form educational content on **AI Tools** (TikTok & Instagram)  
+- Build SaaS projects and MVPs using **Vibe Coding + n8n + AI tools**  
 
 ---
 
 ✨ *"Coding. Creating. Vibing with AI."*  
+
+
+✨ *"Coding. Creating. Vibing with AI."*  
+
